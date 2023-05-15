@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^14.0.0",
     "@angular/cdk": "^13.0.0",
